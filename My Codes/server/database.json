@@ -1,0 +1,121 @@
+{
+  "customers": [
+    {
+      "id": "0f3e",
+      "name": "890",
+      "fullName": "kopil",
+      "identifier": "870089",
+      "address": "kolkata",
+      "email": "kopil@uok.lk",
+      "contactNo": "90809090909"
+    },
+    {
+      "id": "38c6",
+      "name": "809",
+      "fullName": "morgana",
+      "identifier": "8990",
+      "address": "london",
+      "email": "morgana@gmail.com",
+      "contactNo": "9808099"
+    },
+    {
+      "id": "958e",
+      "name": "7890",
+      "fullName": "koli",
+      "identifier": "7888",
+      "address": "kolkata",
+      "email": "koli@hotmail.com",
+      "contactNo": "87908909"
+    },
+    {
+      "id": "7d5d",
+      "name": "90",
+      "fullName": "kolp",
+      "identifier": "980",
+      "address": "gfnhnh",
+      "email": "bgfhg",
+      "contactNo": "797809"
+    },
+    {
+      "id": "38d4",
+      "name": "980",
+      "fullName": "rash",
+      "identifier": "089",
+      "address": "gsdvjfdhvj",
+      "email": "rghfjuk",
+      "contactNo": "787098"
+    },
+    {
+      "id": "455b",
+      "name": "7809",
+      "fullName": "tashya",
+      "identifier": "98098",
+      "address": "Australia",
+      "email": "tashya@hotmail.com",
+      "contactNo": "908098098090"
+    },
+    {
+      "id": "070a",
+      "name": "920183",
+      "fullName": "Uvi",
+      "identifier": "908",
+      "address": "Dubai",
+      "email": "jadh",
+      "contactNo": "9708"
+    },
+    {
+      "id": "e8e3",
+      "name": "908",
+      "fullName": "krish",
+      "identifier": "87",
+      "address": "India",
+      "email": "krish@gmail.com",
+      "contactNo": "09987"
+    },
+    {
+      "id": "d733",
+      "name": "980",
+      "fullName": "Jiyana",
+      "identifier": "897",
+      "address": "Russia",
+      "email": "ghl",
+      "contactNo": "708"
+    },
+    {
+      "id": "658d",
+      "name": "798",
+      "fullName": "Fathima",
+      "identifier": "908",
+      "address": "Dubai",
+      "email": "jkjh",
+      "contactNo": "879"
+    },
+    {
+      "id": "43fd",
+      "name": "098",
+      "fullName": "Rahi",
+      "identifier": "908",
+      "address": "India",
+      "email": "hjk",
+      "contactNo": "908"
+    },
+    {
+      "id": "84b2",
+      "name": "80213",
+      "fullName": "Ruhi",
+      "identifier": "908",
+      "address": "India",
+      "email": "jshdkj",
+      "contactNo": "87990"
+    },
+    {
+      "id": "d029",
+      "name": "908",
+      "fullName": "Bhagi",
+      "identifier": "908980",
+      "address": "Sri lanka",
+      "email": "halikjhdj",
+      "contactNo": "92310930"
+    }
+  ]
+}
